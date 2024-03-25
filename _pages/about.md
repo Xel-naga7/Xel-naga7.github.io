@@ -11,6 +11,7 @@ I'm a fourth undergraduate student in HIT, 3 months later I will be a PhD studen
 
 ---
 ## what I'm learning now
+
 ### Phys
 ---
 -  review linear algebra
