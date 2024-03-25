@@ -21,6 +21,7 @@ I'm a fourth undergraduate student in HIT, 3 months later I will be a PhD studen
 -  learn Theoretic Mechanics
 -  review Thermodynamics ElcDynam Quantum
 -  intensively read 100 paper
+
 ### CS
 ---
 -  python
@@ -28,6 +29,7 @@ I'm a fourth undergraduate student in HIT, 3 months later I will be a PhD studen
 -  latex
 -  git & github
 -  markdown
+
 ### Math
 ---
 -  real analytic
