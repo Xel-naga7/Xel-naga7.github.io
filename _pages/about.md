@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth undergraduate student in HIT, 3 months later I will be a PhD student in Peking University. I'm major in astrophysics and my advisor is Lijing Shao (Gravity attract us all).
+I'm a fourth undergraduate student in HIT, 3 months later I will be a PhD student in Peking University. 
+I'm major in astrophysics and my advisor is Lijing Shao (Gravity attract us all).
+
 ---
 ## what I'm learning now
 ### Phys
