@@ -13,20 +13,20 @@ I'm a fourth undergraduate student in HIT, 3 months later I will be a PhD studen
 ## what I'm learning now
 ### Phys
 ---
-- [ ] review linear algebra
-- [ ] finish Intro to Astrophy
-- [ ] finish Intro to GR by Bin Chen
-- [ ] read Bayes statistics
-- [ ] learn Theoretic Mechanics
-- [ ] review Thermodynamics ElcDynam Quantum
-- [ ] intensively read 100 paper
+-  review linear algebra
+-  finish Intro to Astrophy
+-  finish Intro to GR by Bin Chen
+-  read Bayes statistics
+-  learn Theoretic Mechanics
+-  review Thermodynamics ElcDynam Quantum
+-  intensively read 100 paper
 ### CS
 ---
-- [ ] python
-- [ ] data analysis
-- [ ] latex
-- [ ] git & github
-- [ ] markdown
+-  python
+-  data analysis
+-  latex
+-  git & github
+-  markdown
 ### Math
 ---
-- [ ] real analytic
+-  real analytic
