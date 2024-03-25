@@ -1,6 +1,3 @@
-```progressbar
-kind: day-year
-```
 
 ---
 **Phys**
@@ -15,12 +12,7 @@ kind: day-year
 - [ ] learn Theoretic Mechanics
 - [ ] review Thermodynamics ElcDynam Quantum
 - [ ] intensively read 100 paper 
-```progressbar
-    kind: manual
-    name: Paper have read {value}, it's {percentage} to {max}
-    value: 1
-    max: 100
-```
+
 ---
 
 - [ ] python
