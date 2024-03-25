@@ -14,24 +14,19 @@ I'm a fourth undergraduate student in HIT, 3 months later I will be a PhD studen
 ### Phys
 ---
 - [ ] review linear algebra
-finish Intro to Astrophy
-finish Intro to GR by Bin Chen
-read Bayes statistics
-learn Theoretic Mechanics
-review Thermodynamics ElcDynam Quantum
-intensively read 100 paper
+- [ ] finish Intro to Astrophy
+- [ ] finish Intro to GR by Bin Chen
+- [ ] read Bayes statistics
+- [ ] learn Theoretic Mechanics
+- [ ] review Thermodynamics ElcDynam Quantum
+- [ ] intensively read 100 paper
 ### CS
 ---
-python
-plot (matplotlib)
-element (list, array, dict, )
-data analysis
-latex
-30 mins latex
-use latex write paper
-git & github
-build website https://xel-naga7.github.io/
-markdown
+- [ ] python
+- [ ] data analysis
+- [ ] latex
+- [ ] git & github
+- [ ] markdown
 ### Math
 ---
-real analytic
+- [ ] real analytic
