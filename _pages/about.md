@@ -29,6 +29,7 @@ I'm a fourth undergraduate student in HIT, 3 months later I will be a PhD studen
 -  latex
 -  git & github
 -  markdown
+-  mathematic
 
 ### Math
 ---
