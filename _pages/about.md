@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a fourth undergraduate student in HIT, 3 months later I will be a PhD student in Peking University. I'm major in astrophysics and my advisor is Lijing Shao (Gravity attract us all).
-
+I am a PhD. candidate at Peking University, supervised by Prof. Lijing Shao. I’m interested in GW data analysis, Bayesian inference, etc.
 ---
 ## what I'm learning now
 
